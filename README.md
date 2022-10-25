@@ -4,8 +4,8 @@ I am a Clean Code and Automation Evangelist who loves to create Industry standar
 
 Skills: Selenium, Appium, Rest Assured, Docker, Jenkins, Git, Microservices, Openshift, Postman, SoapUI, Springboot
 
-- 🔭 I’m currently working on Clean code series in my youtube channel and Selenium Java Online training Workshop
-- 🌱 I’m currently learning AWS Services 
+- 🔭 I’m currently working on Selenide series in my youtube channel
+- 🌱 I’m currently contributing to selenide-appium project
 - 👯 I’m looking to collaborate on Appium 
 - 💬 Ask me about Selenium, Appium, Rest Assured, Docker  
 - 📫 How to reach me: amuthan@testingminibytes.com 
